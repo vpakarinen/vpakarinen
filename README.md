@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=vpakarinen)
-
 ### Hi there 👋 my name is Ville Pakarinen
 
 I'm an AI and cyber security enthusiast from Finland, focusing on building generative AI and LLM applications.
