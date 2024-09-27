@@ -22,7 +22,13 @@ You can email me at: vpakarinen@proton.me
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
+
+<h4> API </h4>
+<span>
+  <img src="https://img.shields.io/badge/FastAPI-049688?style=for-the-badge&logo=fastapi&logoColor=white">
+</span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
