@@ -8,7 +8,7 @@ I'm an AI enthusiast from Finland, focusing on building generative AI and LLM ap
  	- Large Language Model (LLM)
 - 💬 Talk to me about programming, AI, cyber security, science, space, anything that interests you.
 
-## My Skills Include
+## Technologies I Use
 
 <h4> Languages </h4>
 <span> 
@@ -33,7 +33,7 @@ I'm an AI enthusiast from Finland, focusing on building generative AI and LLM ap
   <img src="https://img.shields.io/badge/FastAPI-049688?style=for-the-badge&logo=fastapi&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Other Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-424242?style=for-the-badge&logo=github&logoColor=white">
