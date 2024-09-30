@@ -33,6 +33,11 @@ I'm an AI enthusiast from Finland, focusing on building generative AI and LLM ap
   <img src="https://img.shields.io/badge/FastAPI-049688?style=for-the-badge&logo=fastapi&logoColor=white">
 </span>
 
+<h4> Database </h4>
+<span>
+  <img src="https://img.shields.io/badge/Supabase-269463?style=for-the-badge&logo=supabase&logoColor=white">
+</span>
+
 <h4> Other Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white">
