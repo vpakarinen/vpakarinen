@@ -23,6 +23,7 @@ I'm an AI enthusiast from Finland, focusing on building generative AI and LLM ap
 
 <h4> Frontend </h4>
 <span>
+  <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white">
 </span>
 
