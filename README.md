@@ -8,8 +8,6 @@ I'm an AI enthusiast from Finland, focusing on building generative AI and LLM ap
  	- Large Language Model (LLM)
 - 💬 Talk to me about programming, AI, cyber security, science, space, anything that interests you.
 
-Project i'm working on atm: [LangForge](https://github.com/vpakarinen/langforge)
-
 ## Technologies I Use
 
 <h4> Languages </h4>
