@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Ville
+### Hi there 👋 my name is Ville Pakarinen
 
 I'm an AI and machine learning enthusiast from Finland, focusing on building robust applications using Python and Javascript.
 
