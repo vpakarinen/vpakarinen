@@ -1,12 +1,10 @@
-### Hi there 👋 my name is Ville Pakarinen
+### Hi there 👋 my name is Ville
 
-I'm an AI enthusiast from Finland, focusing on building generative AI and LLM applications.
+I'm an AI and machine learning enthusiast from Finland, focusing on building robust applications using Python and Javascript.
 
-- 🔭 Currently studying:
-	- Natural Language Understanding (NLU) 
-	- Natural Language Processing (NLP)
- 	- Large Language Model (LLM)
-- 💬 Talk to me about programming, AI, cyber security, science, space, anything that interests you.
+## Projects
+
+[image-video-converter](https://github.com/vpakarinen/image-video-converter)
 
 ## Technologies I Use
 
