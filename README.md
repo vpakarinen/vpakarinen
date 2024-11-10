@@ -5,6 +5,8 @@ I'm an AI and machine learning enthusiast from Finland, focusing on building app
 ## Projects
 
 [image-video-converter](https://github.com/vpakarinen/image-video-converter)
+<br/>
+[file-folder-renamer](https://github.com/vpakarinen/file-folder-renamer)
 
 ## Technologies I Use
 
