@@ -7,6 +7,8 @@ I'm an AI and machine learning enthusiast from Finland, focusing on building app
 [image-video-converter](https://github.com/vpakarinen/image-video-converter)
 <br/>
 [file-folder-renamer](https://github.com/vpakarinen/file-folder-renamer)
+<br/>
+[secure-file-guard](https://github.com/vpakarinen/secure-file-guard)
 
 ## Technologies I Use
 
