@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ville Pakarinen
 
-I'm an AI and machine learning enthusiast from Finland, focusing on building applications using Python and Javascript.
+AI and machine learning enthusiast from Finland, focusing on building applications using Python and Javascript.
 
 ## Projects
 
