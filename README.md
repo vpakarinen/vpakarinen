@@ -1,12 +1,10 @@
 ### Hi there 👋 my name is Ville Pakarinen
 
-AI and machine learning enthusiast from Finland, focusing on building applications using Python and Javascript.
+AI enthusiast from Finland, focusing on building robust and modern applications.
 
 ## Projects
 
-[image-video-converter](https://github.com/vpakarinen/image-video-converter)
-<br/>
-[secure-file-guard](https://github.com/vpakarinen/secure-file-guard)
+Coming Soon
 
 ## Technologies I Use
 
