@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ville Pakarinen
 
-AI enthusiast from Finland, focusing on building robust and modern applications.
+I'm AI enthusiast from Finland, focusing on building robust and modern applications.
 
 ## Projects
 
