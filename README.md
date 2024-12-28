@@ -26,11 +26,6 @@ Coming Soon
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
-<h4> IDE </h4>
-<span>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
-
 <h4> Frontend </h4>
 <span>
   <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white">
@@ -46,10 +41,4 @@ Coming Soon
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white">
-</span>
-
-<h4> Other Tools </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-424242?style=for-the-badge&logo=github&logoColor=white">
 </span>
