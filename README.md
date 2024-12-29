@@ -12,9 +12,11 @@ Coming Soon
   <a href="https://www.buymeacoffee.com/vpakarinen" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
-  
   <a href="https://ko-fi.com/vpakarinen" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
+    <a href="https://www.patreon.com/vpakarinen" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
   </a>
 </p>
 
