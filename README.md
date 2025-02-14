@@ -4,7 +4,7 @@ AI enthusiast focusing on building robust and modern applications.
 
 ## Projects
 
-[landetect](https://github.com/vpakarinen/landetect) - Detect landmarks in real-time and extract the data automatically
+[landetect](https://github.com/vpakarinen/landetect) - Real-time landmark detection and automatic data extraction.
 
 ## Support Me
 
