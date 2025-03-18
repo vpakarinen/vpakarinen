@@ -30,8 +30,8 @@ AI enthusiast focusing on building robust and modern applications.
 
 <h4> Frontend </h4>
 <span>
-  <img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.JS-646464?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/gradio-FF9B3D?style=for-the-badge&logo=gradio&logoColor=black">
 </span>
 
 <h4> API </h4>
